@@ -2,13 +2,9 @@
 <h3 align="center">A computer science student from Brazil</h3>
 <img align="right" alt="coding" width="280" src="https://user-images.githubusercontent.com/77353347/236710515-c1d9ddfb-9d07-4231-87c8-b069cefc0237.gif">
 
-- 🔭 I’m currently working on **Nescara**
-
-- 🌱 I’m currently learning **mobile and web develop**
+- 🔭 I’m currently working on **Globant**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EnzoTatiyama](https://github.com/EnzoTatiyama)
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/enzo-de-campos-tatiyama/](https://www.linkedin.com/in/enzo-de-campos-tatiyama/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
